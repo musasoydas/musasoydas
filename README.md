@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Caner</h1>
-<h1 align="center">Hellö 👋, I'm Caner</h1>
+<h1 align="center">Hello 👋, I'm Musa</h1>
+
 
 <br/>
 
@@ -7,12 +7,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=30DC72&center=true&vCenter=true&width=800&height=100&lines=I'm+an+Android+Developer;I'm+an+Android+Instructor" alt="Headline" />
 </div>
 <p align="center">
-	<a href="mailto:cnrture@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/cnrture/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://twitter.com/yerfizikci"><img src="https://img.icons8.com/bubbles/75/000000/twitter-circled.png" alt="Twitter"/></a>
-  	<a href="https://medium.com/@cnrture"><img src="https://img.icons8.com/bubbles/75/000000/medium-new.png" alt="Medium"/></a>
-	<a href="https://www.instagram.com/cnrture/"><img src="https://img.icons8.com/bubbles/75/000000/instagram-new--v2.png" alt="Instagram"/></a>
-	<a href="https://wa.me/+905423593169"><img src="https://img.icons8.com/bubbles/75/000000/whatsapp.png" alt="Whatsapp"/></a>
+	<a href="mailto:musasoydasebyu@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/musasoydas/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://twitter.com/musaasoydasss"><img src="https://img.icons8.com/bubbles/75/000000/twitter-circled.png" alt="Twitter"/></a>
+  	
+	<a href="https://www.instagram.com/musasoydass/"><img src="https://img.icons8.com/bubbles/75/000000/instagram-new--v2.png" alt="Instagram"/></a>
+	<a href="https://wa.me/+05416516189"><img src="https://img.icons8.com/bubbles/75/000000/whatsapp.png" alt="Whatsapp"/></a>
 </p>
 <br/>
 ---
