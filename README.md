@@ -8,7 +8,7 @@
 </div>
 <p align="center">
 	<a href="mailto:musasoydasebyu@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/musasoydas/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/musa-soyda%C5%9F-9097a3212/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://twitter.com/musaasoydasss"><img src="https://img.icons8.com/bubbles/75/000000/twitter-circled.png" alt="Twitter"/></a>  	
 	<a href="https://www.instagram.com/musasoydass/"><img src="https://img.icons8.com/bubbles/75/000000/instagram-new--v2.png" alt="Instagram"/></a>
 	<a href="https://wa.me/+05416516189"><img src="https://img.icons8.com/bubbles/75/000000/whatsapp.png" alt="Whatsapp"/></a>
